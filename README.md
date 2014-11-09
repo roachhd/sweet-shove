@@ -12,14 +12,7 @@ __This will also be bold__
 
 *You **can** combine them*
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
+*It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 preview_markdown_
 ===============
