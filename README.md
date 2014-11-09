@@ -1,4 +1,4 @@
-sweet-shove
+sweet-shove markdown into your html
 ===========
 
 Shove that Markdown straight into some sweet styled HTML
